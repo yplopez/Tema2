@@ -1,4 +1,4 @@
-package doWhile;
+package dowhile;
 
 public class DoWhileEj1 {
 
